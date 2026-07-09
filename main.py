@@ -9,3 +9,5 @@ class Angka:
         
     def add_new(self, other_num):
         self.number = jumlahkan(self.number, other_num)
+
+        
